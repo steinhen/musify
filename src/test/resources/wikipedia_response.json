@@ -1,0 +1,49 @@
+{
+  "type": "standard",
+  "title": "Michael Jackson",
+  "displaytitle": "Michael Jackson",
+  "namespace": {
+    "id": 0,
+    "text": ""
+  },
+  "wikibase_item": "Q2831",
+  "titles": {
+    "canonical": "Michael_Jackson",
+    "normalized": "Michael Jackson",
+    "display": "Michael Jackson"
+  },
+  "pageid": 14995351,
+  "thumbnail": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Michael_Jackson_in_1988.jpg/180px-Michael_Jackson_in_1988.jpg",
+    "width": 180,
+    "height": 320
+  },
+  "originalimage": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/3/31/Michael_Jackson_in_1988.jpg",
+    "width": 283,
+    "height": 503
+  },
+  "lang": "en",
+  "dir": "ltr",
+  "revision": "1083256209",
+  "tid": "3abab750-bea1-11ec-a6d0-69c7cd3c3061",
+  "timestamp": "2022-04-17T22:53:24Z",
+  "description": "American singer, songwriter, and dancer (1958–2009)",
+  "description_source": "local",
+  "content_urls": {
+    "desktop": {
+      "page": "https://en.wikipedia.org/wiki/Michael_Jackson",
+      "revisions": "https://en.wikipedia.org/wiki/Michael_Jackson?action=history",
+      "edit": "https://en.wikipedia.org/wiki/Michael_Jackson?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:Michael_Jackson"
+    },
+    "mobile": {
+      "page": "https://en.m.wikipedia.org/wiki/Michael_Jackson",
+      "revisions": "https://en.m.wikipedia.org/wiki/Special:History/Michael_Jackson",
+      "edit": "https://en.m.wikipedia.org/wiki/Michael_Jackson?action=edit",
+      "talk": "https://en.m.wikipedia.org/wiki/Talk:Michael_Jackson"
+    }
+  },
+  "extract": "Michael Joseph Jackson was an American singer, songwriter, and dancer. Dubbed the \"King of Pop\", he is regarded as one of the most significant cultural figures of the 20th century. Over a four-decade career, his contributions to music, dance, and fashion, along with his publicized personal life, made him a global figure in popular culture. Jackson influenced artists across many music genres; through stage and video performances, he popularized complicated dance moves such as the moonwalk, to which he gave the name, as well as the robot. He is the most awarded individual music artist in history.",
+  "extract_html": "<p><b>Michael Joseph Jackson</b> was an American singer, songwriter, and dancer. Dubbed the \"King of Pop\", he is regarded as one of the most significant cultural figures of the 20th century. Over a four-decade career, his contributions to music, dance, and fashion, along with his publicized personal life, made him a global figure in popular culture. Jackson influenced artists across many music genres; through stage and video performances, he popularized complicated dance moves such as the moonwalk, to which he gave the name, as well as the robot. He is the most awarded individual music artist in history.</p>"
+}
