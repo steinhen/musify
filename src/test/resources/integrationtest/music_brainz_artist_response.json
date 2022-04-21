@@ -1,0 +1,89 @@
+{
+  "id": "5c210861-2ce2-4be3-9307-bbcfc361cc01",
+  "name": "Pennywise",
+  "release-groups": [
+    {
+      "first-release-date": "1991-10-22",
+      "disambiguation": "",
+      "primary-type": "Album",
+      "secondary-types": [],
+      "secondary-type-ids": [],
+      "id": "bdb7df87-2848-30dc-9b65-86f88056dc61",
+      "title": "Pennywise",
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc"
+    },
+    {
+      "secondary-types": [],
+      "disambiguation": "",
+      "primary-type": "Album",
+      "first-release-date": "1993-08-17",
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "title": "Unknown Road",
+      "id": "2c959b11-1c24-3a7c-a835-b282f23fe8df",
+      "secondary-type-ids": []
+    }
+  ],
+  "begin-area": {
+    "sort-name": "Hermosa Beach",
+    "type-id": null,
+    "disambiguation": "",
+    "name": "Hermosa Beach",
+    "id": "ae918dff-19af-499f-bc05-125e5e939f82",
+    "type": null
+  },
+  "end_area": null,
+  "gender": null,
+  "end-area": null,
+  "disambiguation": "",
+  "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+  "begin_area": {
+    "sort-name": "Hermosa Beach",
+    "type-id": null,
+    "disambiguation": "",
+    "name": "Hermosa Beach",
+    "id": "ae918dff-19af-499f-bc05-125e5e939f82",
+    "type": null
+  },
+  "gender-id": null,
+  "type": "Group",
+  "area": {
+    "name": "United States",
+    "id": "489ce91b-6658-3307-9877-795b68554c98",
+    "type": null,
+    "sort-name": "United States",
+    "iso-3166-1-codes": [
+      "US"
+    ],
+    "type-id": null,
+    "disambiguation": ""
+  },
+  "relations": [
+    {
+      "attribute-ids": {},
+      "attributes": [],
+      "source-credit": "",
+      "target-type": "url",
+      "attribute-values": {},
+      "type-id": "689870a4-a1e4-4912-b17f-7b2664215698",
+      "end": null,
+      "type": "wikidata",
+      "direction": "forward",
+      "url": {
+        "resource": "https://www.wikidata.org/wiki/Q754051",
+        "id": "f8be2e04-ccc4-4ea4-9f67-69e116fc7802"
+      },
+      "ended": false,
+      "target-credit": "",
+      "begin": null
+    }
+  ],
+  "country": "US",
+  "life-span": {
+    "end": null,
+    "ended": false,
+    "begin": "1988"
+  },
+  "ipis": [],
+  "isnis": [],
+  "sort-name": "Pennywise"
+}

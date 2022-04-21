@@ -1,0 +1,49 @@
+{
+  "type": "standard",
+  "title": "Pennywise (band)",
+  "displaytitle": "Pennywise (band)",
+  "namespace": {
+    "id": 0,
+    "text": ""
+  },
+  "wikibase_item": "Q754051",
+  "titles": {
+    "canonical": "Pennywise_(band)",
+    "normalized": "Pennywise (band)",
+    "display": "Pennywise (band)"
+  },
+  "pageid": 22024905,
+  "thumbnail": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Pennywise_Warped_Tour.jpg/320px-Pennywise_Warped_Tour.jpg",
+    "width": 320,
+    "height": 240
+  },
+  "originalimage": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/4/4e/Pennywise_Warped_Tour.jpg",
+    "width": 1600,
+    "height": 1200
+  },
+  "lang": "en",
+  "dir": "ltr",
+  "revision": "1082698842",
+  "tid": "453da910-bc05-11ec-bcd7-3ff6f6868d72",
+  "timestamp": "2022-04-14T15:12:12Z",
+  "description": "American punk rock band",
+  "description_source": "local",
+  "content_urls": {
+    "desktop": {
+      "page": "https://en.wikipedia.org/wiki/Pennywise_(band)",
+      "revisions": "https://en.wikipedia.org/wiki/Pennywise_(band)?action=history",
+      "edit": "https://en.wikipedia.org/wiki/Pennywise_(band)?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:Pennywise_(band)"
+    },
+    "mobile": {
+      "page": "https://en.m.wikipedia.org/wiki/Pennywise_(band)",
+      "revisions": "https://en.m.wikipedia.org/wiki/Special:History/Pennywise_(band)",
+      "edit": "https://en.m.wikipedia.org/wiki/Pennywise_(band)?action=edit",
+      "talk": "https://en.m.wikipedia.org/wiki/Talk:Pennywise_(band)"
+    }
+  },
+  "extract": "Pennywise is an American punk rock band from Hermosa Beach, California, formed in 1988. The band took its name from the antagonist in Stephen King's horror novel It.",
+  "extract_html": "<p><b>Pennywise</b> is an American punk rock band from Hermosa Beach, California, formed in 1988. The band took its name from the antagonist in Stephen King's horror novel <i>It</i>.</p>"
+}

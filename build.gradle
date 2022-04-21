@@ -1,0 +1,60 @@
+plugins {
+    id 'org.jetbrains.kotlin.jvm' version '1.6.20'
+    id 'org.springframework.boot' version '2.6.6'
+    id 'application'
+}
+
+group = 'me.henriquestein'
+version = '1.0-SNAPSHOT'
+
+repositories {
+    mavenCentral()
+}
+
+dependencies {
+    implementation 'org.springframework.boot:spring-boot-starter-webflux:2.6.6'
+
+    // https://mvnrepository.com/artifact/org.springframework.boot/spring-boot-starter-actuator
+    implementation 'org.springframework.boot:spring-boot-starter-actuator:2.6.6'
+
+    implementation 'com.github.ben-manes.caffeine:caffeine:3.0.6'
+
+    // https://mvnrepository.com/artifact/org.jetbrains.kotlinx/kotlinx-coroutines-core
+    implementation 'org.jetbrains.kotlinx:kotlinx-coroutines-core:1.6.1'
+
+    implementation 'org.jetbrains.kotlinx:kotlinx-coroutines-reactor:1.6.1'
+
+    // https://mvnrepository.com/artifact/org.jetbrains.kotlin/kotlin-reflect
+    runtimeOnly 'org.jetbrains.kotlin:kotlin-reflect:1.6.20'
+
+    testImplementation 'org.testng:testng:7.5'
+
+    testImplementation 'org.jetbrains.kotlin:kotlin-test'
+
+    // https://mvnrepository.com/artifact/com.willowtreeapps.assertk/assertk
+    testImplementation 'com.willowtreeapps.assertk:assertk:0.25'
+
+    // https://mvnrepository.com/artifact/io.mockk/mockk
+    testImplementation 'io.mockk:mockk:1.12.3'
+
+    // https://mvnrepository.com/artifact/com.squareup.okhttp3/mockwebserver
+    testImplementation 'com.squareup.okhttp3:mockwebserver:4.9.3'
+
+    // https://mvnrepository.com/artifact/org.springframework.boot/spring-boot-starter-test
+    testImplementation('org.springframework.boot:spring-boot-starter-test:2.6.6')
+
+}
+
+test {
+    useTestNG()
+}
+
+java {
+    toolchain {
+        languageVersion = JavaLanguageVersion.of(11)
+    }
+}
+
+springBoot {
+    mainClassName = 'me.henriquestein.MainKt'
+}
